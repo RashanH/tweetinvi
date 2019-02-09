@@ -28,8 +28,8 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.1" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tweetinvi.Core\Tweetinvi.Core.csproj" />
-    <ProjectReference Include="..\Tweetinvi\Tweetinvi.csproj" />
+    <ProjectReference Include="..\..\src\Tweetinvi.Core\Tweetinvi.Core.csproj" />
+    <ProjectReference Include="..\..\src\Tweetinvi\Tweetinvi.csproj" />
   </ItemGroup>
 
 </Project>
